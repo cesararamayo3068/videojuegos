@@ -12,6 +12,7 @@ public class Distribuidor {
 	private Integer id;
 	private String nombre;
 	private String sitioWeb;
+	
 	public Integer getId() {
 		return id;
 	}
